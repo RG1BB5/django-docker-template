@@ -1,1 +1,1 @@
-# django-docker-template
+# {{ project_name }}
